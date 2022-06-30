@@ -63,8 +63,9 @@ p {
     margin-bottom: 10px;
     margin-left: 180px;
 }
-h3 {
+h2 {
     margin-bottom: -10px;
+    font-size: medium;
 }
 .attribution { 
     font-size: 11px; 
