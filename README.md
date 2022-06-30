@@ -10,7 +10,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -28,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/TheDeola/four-card-feature-section-master)
+- Live Site URL: [Live Site](https://four-master-card-feature.netlify.app/)
 
 ## My process
 
@@ -43,14 +42,8 @@ Users should be able to:
 - [Styled Components](https://styled-components.com/) - For styles
 
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) 
-- [Example resource 2](https://www.example.com) 
-
-
 ## Author
 
-- Website - [TheDeola](https://www.your-site.com)
+- Website - [TheDeola](https://thedeola.netlify.app/)
 - Frontend Mentor - [@thedeola](https://www.frontendmentor.io/profile/thedeola)
 - Twitter - [@deolacodes](https://www.twitter.com/deolacodes)
